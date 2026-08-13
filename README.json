@@ -1,0 +1,204 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fresh_charts",
+          "description": "A server side rendered charting library for Fresh based on Chart.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-17T10:47:29Z",
+            "owner": "denoland",
+            "repo": "fresh_charts",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fresh-session",
+          "description": "Dead simple cookie-based session for Deno Fresh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-01T07:55:00Z",
+            "owner": "Octo8080X",
+            "repo": "fresh-session",
+            "stars": 82
+          }
+        }
+      ],
+      "title": "Modules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deno SaaSKit",
+          "description": "A modern SaaS template built on Fresh.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-02-09T16:21:54Z",
+            "owner": "denoland",
+            "repo": "saaskit",
+            "stars": 1326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deno Fresh OpenAI Doc Search Starter",
+          "description": "Template for building your own custom ChatGPT style doc search powered by Fresh, Deno, OpenAI, and Supabase.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-08-08T08:22:06Z",
+            "owner": "supabase-community",
+            "repo": "deno-fresh-openai-doc-search",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fresh WordPress Themes",
+          "description": "This repository includes Fresh WordPress themes. You can start developing WordPress-backed Fresh website using these templates.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-01-23T04:54:39Z",
+            "owner": "denoland",
+            "repo": "fresh-wordpress-themes",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "athena",
+          "description": "Modern full stack development template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-28T13:34:34Z",
+            "owner": "dext7r",
+            "repo": "athena",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jsr.io",
+          "description": "The open-source package registry for modern JavaScript and TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T15:58:07Z",
+            "owner": "jsr-io",
+            "repo": "jsr",
+            "stars": 2969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deco",
+          "description": "Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:34:25Z",
+            "owner": "deco-cx",
+            "repo": "deco",
+            "stars": 845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kview",
+          "description": "A web interface for viewing Deno KV stores.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-11T09:24:57Z",
+            "owner": "kitsonk",
+            "repo": "kview",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-deno",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T05:39:49Z",
+            "owner": "denolib",
+            "repo": "awesome-deno",
+            "stars": 4412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-oak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-20T21:28:20Z",
+            "owner": "oakserver",
+            "repo": "awesome-oak",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-deno-kv",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-07T13:56:37Z",
+            "owner": "hashrock",
+            "repo": "awesome-deno-kv",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "Related lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:49:14.782Z",
+    "original_repository": "uki00a/awesome-fresh",
+    "original_repository_sha": "7b6b6e917f0398a7a2a1f201f5a211f22a7409d9",
+    "enhanced_repository": "enhansome/enhansome-fresh",
+    "enhanced_repository_description": null,
+    "title": "Awesome Fresh with stars"
+  }
+}
