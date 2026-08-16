@@ -107,7 +107,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T12:51:00Z",
+            "last_commit": "2026-08-15T12:04:10Z",
             "owner": "jsr-io",
             "repo": "jsr",
             "stars": 2969
@@ -194,7 +194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:55:31.379Z",
+    "last_updated": "2026-08-16T06:56:23.930Z",
     "original_repository": "uki00a/awesome-fresh",
     "original_repository_sha": "7b6b6e917f0398a7a2a1f201f5a211f22a7409d9",
     "enhanced_repository": "enhansome/enhansome-fresh",
