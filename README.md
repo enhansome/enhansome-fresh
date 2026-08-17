@@ -4,7 +4,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/uki00a/awesome-fresh?style=social)](https://github.com/uki00a/awesome-fresh) ⭐ 51 | 🐛 1 | 🌐 TypeScript | 📅 2025-06-22
 
-A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,789 | 🐛 147 | 🌐 TypeScript | 📅 2026-08-02
+A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,787 | 🐛 147 | 🌐 TypeScript | 📅 2026-08-02
 
 ## Contents
 
@@ -38,7 +38,7 @@ The following frameworks provide Fresh integration.
 
 <!--lint ignore awesome-list-item-->
 
-* [Danet](https://github.com/Savory/Danet) ⭐ 526 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-26 - A Savory web framework for Deno heavily inspired by Nest
+* [Danet](https://github.com/Savory/Danet) ⭐ 526 | 🐛 3 | 🌐 HTML | 📅 2026-08-17 - A Savory web framework for Deno heavily inspired by Nest
 
 <!--lint enable awesome-list-item-->
 
@@ -70,4 +70,4 @@ The following frameworks provide Fresh integration.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
