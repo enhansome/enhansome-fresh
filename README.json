@@ -107,10 +107,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T12:04:10Z",
+            "last_commit": "2026-08-18T14:47:48Z",
             "owner": "jsr-io",
             "repo": "jsr",
-            "stars": 2966
+            "stars": 2968
           }
         },
         {
@@ -121,7 +121,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T00:20:28Z",
+            "last_commit": "2026-08-19T00:20:23Z",
             "owner": "deco-cx",
             "repo": "deco",
             "stars": 845
@@ -194,7 +194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:01:02.780Z",
+    "last_updated": "2026-08-19T07:01:47.019Z",
     "original_repository": "uki00a/awesome-fresh",
     "original_repository_sha": "7b6b6e917f0398a7a2a1f201f5a211f22a7409d9",
     "enhanced_repository": "enhansome/enhansome-fresh",
