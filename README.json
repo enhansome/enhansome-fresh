@@ -15,7 +15,7 @@
             "last_commit": "2024-04-17T10:47:29Z",
             "owner": "denoland",
             "repo": "fresh_charts",
-            "stars": 154
+            "stars": 155
           }
         },
         {
@@ -189,10 +189,10 @@
             "archived": false,
             "id": 764577268,
             "language": "Rust",
-            "last_commit": "2026-08-19T14:37:49Z",
+            "last_commit": "2026-08-20T15:29:03Z",
             "owner": "jsr-io",
             "repo": "jsr",
-            "stars": 2970
+            "stars": 2969
           }
         },
         {
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 512911060,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T00:37:57Z",
+            "last_commit": "2026-08-21T00:22:04Z",
             "owner": "deco-cx",
             "repo": "deco",
             "stars": 845
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-14T00:57:28Z",
             "owner": "denolib",
             "repo": "awesome-deno",
-            "stars": 4410
+            "stars": 4411
           }
         },
         {
@@ -281,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:02:38.260Z",
+    "last_updated": "2026-08-21T07:04:14.244Z",
     "original_repository": "uki00a/awesome-fresh",
     "original_repository_id": 631698157,
     "original_repository_sha": "7b6b6e917f0398a7a2a1f201f5a211f22a7409d9",

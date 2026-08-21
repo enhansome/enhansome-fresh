@@ -4,7 +4,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/uki00a/awesome-fresh?style=social)](https://github.com/uki00a/awesome-fresh) ⭐ 51 | 🐛 1 | 🌐 TypeScript | 📅 2025-06-22
 
-A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,785 | 🐛 148 | 🌐 TypeScript | 📅 2026-08-02
+A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,784 | 🐛 148 | 🌐 TypeScript | 📅 2026-08-02
 
 ## Contents
 
@@ -16,7 +16,7 @@ A curated list of awesome things related to [fresh](https://github.com/denoland/
 
 ## Modules
 
-* [fresh\_charts](https://github.com/denoland/fresh_charts) ⭐ 154 | 🐛 9 | 🌐 TypeScript | 📅 2024-04-17 - A server side rendered charting library for Fresh based on Chart.js.
+* [fresh\_charts](https://github.com/denoland/fresh_charts) ⭐ 155 | 🐛 9 | 🌐 TypeScript | 📅 2024-04-17 - A server side rendered charting library for Fresh based on Chart.js.
 * [fresh-session](https://github.com/xstevenyung/fresh-session) ⭐ 82 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-01 - Dead simple cookie-based session for Deno Fresh.
 
 <!--lint ignore awesome-list-item-->
@@ -44,7 +44,7 @@ The following frameworks provide Fresh integration.
 
 <!--lint ignore awesome-list-item-->
 
-* [Remult](https://github.com/remult/remult) ⭐ 3,207 | 🐛 118 | 🌐 TypeScript | 📅 2026-08-18 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
+* [Remult](https://github.com/remult/remult) ⭐ 3,207 | 🐛 118 | 🌐 TypeScript | 📅 2026-08-20 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
 
 <!--lint enable awesome-list-item-->
 
@@ -57,17 +57,17 @@ The following frameworks provide Fresh integration.
 
 ## Apps
 
-* [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,970 | 🐛 300 | 🌐 Rust | 📅 2026-08-19 - The open-source package registry for modern JavaScript and TypeScript.
-* [Deco](https://github.com/deco-cx/deco) ⭐ 845 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-20 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
+* [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,969 | 🐛 286 | 🌐 Rust | 📅 2026-08-20 - The open-source package registry for modern JavaScript and TypeScript.
+* [Deco](https://github.com/deco-cx/deco) ⭐ 845 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-21 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
 * [kview](https://github.com/kitsonk/kview) ⭐ 100 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-11 - A web interface for viewing Deno KV stores.
 * [Netzo](https://netzo.io) - Build business web apps fast, with less resources with an opinionated fresh meta-framework and development platform.
 
 ## Related lists
 
-* [awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,410 | 🐛 2 | 📅 2026-08-14
+* [awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,411 | 🐛 2 | 📅 2026-08-14
 * [awesome-oak](https://github.com/oakserver/awesome-oak) ⭐ 84 | 🐛 0 | 📅 2025-07-20
 * [awesome-deno-kv](https://github.com/hashrock/awesome-deno-kv) ⭐ 62 | 🐛 0 | 📅 2025-09-07
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
