@@ -189,7 +189,7 @@
             "archived": false,
             "id": 764577268,
             "language": "Rust",
-            "last_commit": "2026-08-22T12:37:17Z",
+            "last_commit": "2026-08-24T05:14:13Z",
             "owner": "jsr-io",
             "repo": "jsr",
             "stars": 2969
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-14T00:57:28Z",
             "owner": "denolib",
             "repo": "awesome-deno",
-            "stars": 4410
+            "stars": 4409
           }
         },
         {
@@ -281,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T06:57:52.140Z",
+    "last_updated": "2026-08-24T07:16:46.693Z",
     "original_repository": "uki00a/awesome-fresh",
     "original_repository_id": 631698157,
     "original_repository_sha": "7b6b6e917f0398a7a2a1f201f5a211f22a7409d9",
