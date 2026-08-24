@@ -112,6 +112,42 @@
       "title": "Modules"
     },
     {
+      "description": "The following frameworks provide Fresh integration.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Danet",
+          "description": "A Savory web framework for Deno heavily inspired by Nest",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 483832296,
+            "language": "HTML",
+            "last_commit": "2026-08-17T03:49:39Z",
+            "owner": "Savory",
+            "repo": "Danet",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remult",
+          "description": "Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108873775,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:31:12Z",
+            "owner": "remult",
+            "repo": "remult",
+            "stars": 3207
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -189,7 +225,7 @@
             "archived": false,
             "id": 764577268,
             "language": "Rust",
-            "last_commit": "2026-08-24T05:14:13Z",
+            "last_commit": "2026-08-24T14:33:17Z",
             "owner": "jsr-io",
             "repo": "jsr",
             "stars": 2969
@@ -243,7 +279,7 @@
             "last_commit": "2026-08-14T00:57:28Z",
             "owner": "denolib",
             "repo": "awesome-deno",
-            "stars": 4409
+            "stars": 4408
           }
         },
         {
@@ -281,7 +317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:16:46.693Z",
+    "last_updated": "2026-08-24T14:48:33.229Z",
     "original_repository": "uki00a/awesome-fresh",
     "original_repository_id": 631698157,
     "original_repository_sha": "7b6b6e917f0398a7a2a1f201f5a211f22a7409d9",
