@@ -138,10 +138,10 @@
             "archived": false,
             "id": 108873775,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:31:12Z",
+            "last_commit": "2026-08-26T23:19:57Z",
             "owner": "remult",
             "repo": "remult",
-            "stars": 3208
+            "stars": 3209
           }
         }
       ],
@@ -225,7 +225,7 @@
             "archived": false,
             "id": 764577268,
             "language": "Rust",
-            "last_commit": "2026-08-25T23:08:03Z",
+            "last_commit": "2026-08-27T11:26:59Z",
             "owner": "jsr-io",
             "repo": "jsr",
             "stars": 2969
@@ -240,7 +240,7 @@
             "archived": false,
             "id": 512911060,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T00:21:20Z",
+            "last_commit": "2026-08-27T02:23:03Z",
             "owner": "deco-cx",
             "repo": "deco",
             "stars": 845
@@ -317,9 +317,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:05:34.373Z",
-    "original_repository": "uki00a/awesome-fresh",
-    "original_repository_id": 631698157,
+    "last_updated": "2026-08-27T11:40:54.710Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 631698157,
+      "language": "TypeScript",
+      "last_commit": "2025-06-22T08:16:42Z",
+      "owner": "uki00a",
+      "repo": "awesome-fresh",
+      "stars": 51
+    },
     "original_repository_sha": "7b6b6e917f0398a7a2a1f201f5a211f22a7409d9",
     "enhanced_repository": "enhansome/enhansome-fresh",
     "enhanced_repository_description": null,
