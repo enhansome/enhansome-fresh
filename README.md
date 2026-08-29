@@ -44,7 +44,7 @@ The following frameworks provide Fresh integration.
 
 <!--lint ignore awesome-list-item-->
 
-* [Remult](https://github.com/remult/remult) ⭐ 3,208 | 🐛 119 | 🌐 TypeScript | 📅 2026-08-27 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
+* [Remult](https://github.com/remult/remult) ⭐ 3,209 | 🐛 119 | 🌐 TypeScript | 📅 2026-08-27 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
 
 <!--lint enable awesome-list-item-->
 
@@ -57,8 +57,8 @@ The following frameworks provide Fresh integration.
 
 ## Apps
 
-* [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,970 | 🐛 231 | 🌐 Rust | 📅 2026-08-28 - The open-source package registry for modern JavaScript and TypeScript.
-* [Deco](https://github.com/deco-cx/deco) ⭐ 845 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-28 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
+* [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,970 | 🐛 230 | 🌐 Rust | 📅 2026-08-28 - The open-source package registry for modern JavaScript and TypeScript.
+* [Deco](https://github.com/deco-cx/deco) ⭐ 845 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-29 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
 * [kview](https://github.com/kitsonk/kview) ⭐ 100 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-11 - A web interface for viewing Deno KV stores.
 * [Netzo](https://netzo.io) - Build business web apps fast, with less resources with an opinionated fresh meta-framework and development platform.
 
@@ -70,4 +70,4 @@ The following frameworks provide Fresh integration.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

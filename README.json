@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A server-side-rendered charting library for Fresh",
+            "homepage": "https://fresh-charts.deno.dev/",
             "id": 550691825,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-17T10:47:29Z",
+            "open_issues": 9,
             "owner": "denoland",
             "repo": "fresh_charts",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "charting-library",
+              "chartjs",
+              "charts",
+              "deno",
+              "fresh"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -26,12 +37,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dead simple cookie-based session for Deno Fresh.",
+            "homepage": null,
             "id": 514913808,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-01T07:55:00Z",
+            "open_issues": 1,
             "owner": "Octo8080X",
             "repo": "fresh-session",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "authentication",
+              "cookie",
+              "deno",
+              "fresh",
+              "session",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -42,12 +65,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest way ⚡️ to create sitemap and robots.txt in your Deno Fresh project 🍋",
+            "homepage": null,
             "id": 509244880,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-15T16:09:32Z",
+            "open_issues": 7,
             "owner": "excessivecoding",
             "repo": "fresh-seo",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "deno",
+              "fresh",
+              "seo",
+              "sitemap",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -58,12 +92,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for testing fresh apps",
+            "homepage": "https://deno.land/x/fresh_testing_library",
             "id": 651192327,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-01T17:04:00Z",
+            "open_issues": 6,
             "owner": "uki00a",
             "repo": "fresh-testing-library",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "deno",
+              "fresh",
+              "testing-library"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -74,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Deno Fresh plugin for TailwindCSS",
+            "homepage": null,
             "id": 660014173,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-06-30T02:13:46Z",
+            "open_issues": 0,
             "owner": "roonie007",
             "repo": "fresh-tailwindcss",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -90,12 +138,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 652745706,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-10-12T20:15:52Z",
+            "open_issues": 5,
             "owner": "cbinzer",
             "repo": "deno-kv-insights",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -106,12 +159,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://tabler-icons-tsx.deno.dev/",
             "id": 536026644,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-01T10:33:16Z",
+            "open_issues": 0,
             "owner": "hashrock",
             "repo": "tabler-icons-tsx",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "done"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         }
@@ -128,12 +188,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most mature backend framework for Deno. Create awesome HTTP and WebSocket server as well as KVQueue workers !",
+            "homepage": "https://danet.land",
             "id": 483832296,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T03:49:39Z",
+            "open_issues": 3,
             "owner": "Savory",
             "repo": "Danet",
-            "stars": 527
+            "stars": 527,
+            "topics": [
+              "deno",
+              "dependency-injection",
+              "framework",
+              "hacktoberfest",
+              "ioc",
+              "typescript",
+              "websocket",
+              "websocket-server"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -144,12 +218,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full-stack CRUD, simplified, with SSOT TypeScript entities",
+            "homepage": "https://remult.dev",
             "id": 108873775,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:38:28Z",
+            "open_issues": 119,
             "owner": "remult",
             "repo": "remult",
-            "stars": 3208
+            "stars": 3209,
+            "topics": [
+              "angular",
+              "api",
+              "crud",
+              "express-middleware",
+              "fullstack",
+              "fullstack-typescript",
+              "jamstack",
+              "nextjs",
+              "orm",
+              "postgresql",
+              "react",
+              "rest",
+              "typescript",
+              "validation",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         }
@@ -166,12 +261,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A modern SaaS template built on Fresh.",
+            "homepage": "https://deno.com/saaskit",
             "id": 611568730,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-09T16:21:54Z",
+            "open_issues": 13,
             "owner": "denoland",
             "repo": "saaskit",
-            "stars": 1325
+            "stars": 1325,
+            "topics": [
+              "deno",
+              "fresh",
+              "saas",
+              "saas-boilerplate",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -182,12 +288,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Template for building your own custom ChatGPT style doc search powered by Fresh, Deno, OpenAI, and Supabase.",
+            "homepage": "https://supabase-openai-doc-search.deno.dev/",
             "id": 629422559,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-08-08T08:22:06Z",
+            "open_issues": 0,
             "owner": "supabase-community",
             "repo": "deno-fresh-openai-doc-search",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "chatgpt",
+              "deno",
+              "fresh",
+              "github-action",
+              "openai",
+              "pgvector",
+              "postgres",
+              "supabase"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -198,12 +318,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "https://wp-blog-example.deno.dev/ https://wp-sweets-co.deno.dev/",
+            "homepage": "https://deno.com/blog/introducing-fresh-wordpress-themes",
             "id": 530088918,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-23T04:54:39Z",
+            "open_issues": 7,
             "owner": "denoland",
             "repo": "fresh-wordpress-themes",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "fresh",
+              "wordpress-theme"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -214,12 +342,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 Fresh 2.0 + TypeScript + TailwindCSS 构建的企业级 Web 应用模板",
+            "homepage": "https://athena.deno.dev/",
             "id": 1005963206,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-28T13:34:34Z",
+            "open_issues": 1,
             "owner": "dext7r",
             "repo": "athena",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "deno",
+              "fresh",
+              "react",
+              "sass",
+              "tailwindcss",
+              "template",
+              "typescript",
+              "zustand"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         }
@@ -236,12 +378,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source package registry for modern JavaScript and TypeScript",
+            "homepage": "https://jsr.io",
             "id": 764577268,
             "language": "Rust",
-            "last_commit": "2026-08-28T14:39:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:19:35Z",
+            "open_issues": 230,
             "owner": "jsr-io",
             "repo": "jsr",
-            "stars": 2970
+            "stars": 2970,
+            "topics": [
+              "javascript",
+              "registry",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -252,12 +403,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Git-based Visual CMS for Deno, </> htmx and Tailwind apps. Deploy on any Deno-compatible host.",
+            "homepage": "https://deco.cx",
             "id": 512911060,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:25:37Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:45:01Z",
+            "open_issues": 72,
             "owner": "deco-cx",
             "repo": "deco",
-            "stars": 845
+            "stars": 845,
+            "topics": [
+              "cms",
+              "deno",
+              "fresh",
+              "frontend",
+              "hacktoberfest",
+              "htmx",
+              "platform",
+              "preact",
+              "tailwind",
+              "tailwindcss",
+              "typescript",
+              "webflow",
+              "wordpress"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -268,12 +438,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web app for Deno KV",
+            "homepage": "https://kview.kitsonkelly.com",
             "id": 689584448,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-11T09:24:57Z",
+            "open_issues": 2,
             "owner": "kitsonk",
             "repo": "kview",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "deno",
+              "kv",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         }
@@ -290,12 +469,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome things related to Deno",
+            "homepage": null,
             "id": 163803160,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-14T00:57:28Z",
+            "open_issues": 2,
             "owner": "denolib",
             "repo": "awesome-deno",
-            "stars": 4407
+            "stars": 4407,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deno"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -306,12 +494,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of community projects for oak",
+            "homepage": "https://oakserver.github.io/awesome-oak/",
             "id": 264295572,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-07-20T21:28:20Z",
+            "open_issues": 0,
             "owner": "oakserver",
             "repo": "awesome-oak",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "awesome-list",
+              "deno"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         },
@@ -322,12 +518,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome things related to Deno KV",
+            "homepage": null,
             "id": 708948274,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-07T13:56:37Z",
+            "open_issues": 0,
             "owner": "hashrock",
             "repo": "awesome-deno-kv",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "obsoleted"
+            ]
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
         }
@@ -336,15 +539,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:36:54.045Z",
+    "last_updated": "2026-08-29T05:04:59.066Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to fresh",
+      "homepage": "https://uki00a.github.io/awesome-fresh/",
       "id": 631698157,
       "language": "TypeScript",
+      "license": "CC0-1.0",
       "last_commit": "2025-06-22T08:16:42Z",
+      "open_issues": 1,
       "owner": "uki00a",
       "repo": "awesome-fresh",
-      "stars": 51
+      "stars": 51,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deno",
+        "fresh"
+      ]
     },
     "original_repository_sha": "7b6b6e917f0398a7a2a1f201f5a211f22a7409d9",
     "enhanced_repository": "enhansome/enhansome-fresh",
