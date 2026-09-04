@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "denoland",
             "repo": "fresh_charts",
-            "stars": 155,
+            "stars": 154,
             "topics": [
               "charting-library",
               "chartjs",
@@ -383,8 +383,8 @@
             "id": 764577268,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T06:13:17Z",
-            "open_issues": 232,
+            "last_commit": "2026-09-04T10:07:21Z",
+            "open_issues": 230,
             "owner": "jsr-io",
             "repo": "jsr",
             "stars": 2973,
@@ -408,7 +408,7 @@
             "id": 512911060,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T00:45:01Z",
+            "last_commit": "2026-09-04T00:48:36Z",
             "open_issues": 72,
             "owner": "deco-cx",
             "repo": "deco",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:08:19.896Z",
+    "last_updated": "2026-09-04T11:11:46.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",

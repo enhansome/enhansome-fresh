@@ -16,7 +16,7 @@ A curated list of awesome things related to [fresh](https://github.com/denoland/
 
 ## Modules
 
-* [fresh\_charts](https://github.com/denoland/fresh_charts) ⭐ 155 | 🐛 9 | 🌐 TypeScript | 📅 2024-04-17 - A server side rendered charting library for Fresh based on Chart.js.
+* [fresh\_charts](https://github.com/denoland/fresh_charts) ⭐ 154 | 🐛 9 | 🌐 TypeScript | 📅 2024-04-17 - A server side rendered charting library for Fresh based on Chart.js.
 * [fresh-session](https://github.com/xstevenyung/fresh-session) ⭐ 82 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-01 - Dead simple cookie-based session for Deno Fresh.
 
 <!--lint ignore awesome-list-item-->
@@ -57,8 +57,8 @@ The following frameworks provide Fresh integration.
 
 ## Apps
 
-* [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,973 | 🐛 232 | 🌐 Rust | 📅 2026-09-01 - The open-source package registry for modern JavaScript and TypeScript.
-* [Deco](https://github.com/deco-cx/deco) ⭐ 846 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-29 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
+* [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,973 | 🐛 230 | 🌐 Rust | 📅 2026-09-04 - The open-source package registry for modern JavaScript and TypeScript.
+* [Deco](https://github.com/deco-cx/deco) ⭐ 846 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-04 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
 * [kview](https://github.com/kitsonk/kview) ⭐ 101 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-11 - A web interface for viewing Deno KV stores.
 * [Netzo](https://netzo.io) - Build business web apps fast, with less resources with an opinionated fresh meta-framework and development platform.
 
@@ -70,4 +70,4 @@ The following frameworks provide Fresh integration.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
