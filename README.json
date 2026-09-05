@@ -223,8 +223,8 @@
             "id": 108873775,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T16:39:09Z",
-            "open_issues": 119,
+            "last_commit": "2026-09-05T09:03:25Z",
+            "open_issues": 120,
             "owner": "remult",
             "repo": "remult",
             "stars": 3208,
@@ -408,7 +408,7 @@
             "id": 512911060,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T00:48:36Z",
+            "last_commit": "2026-09-05T01:30:50Z",
             "open_issues": 72,
             "owner": "deco-cx",
             "repo": "deco",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:11:46.449Z",
+    "last_updated": "2026-09-05T10:29:58.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
