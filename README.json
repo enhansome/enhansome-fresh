@@ -223,8 +223,8 @@
             "id": 108873775,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T09:03:31Z",
-            "open_issues": 120,
+            "last_commit": "2026-09-07T11:47:29Z",
+            "open_issues": 119,
             "owner": "remult",
             "repo": "remult",
             "stars": 3208,
@@ -387,7 +387,7 @@
             "open_issues": 230,
             "owner": "jsr-io",
             "repo": "jsr",
-            "stars": 2973,
+            "stars": 2974,
             "topics": [
               "javascript",
               "registry",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T10:50:45.765Z",
+    "last_updated": "2026-09-07T12:22:48.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
