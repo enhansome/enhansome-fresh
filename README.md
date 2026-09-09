@@ -38,13 +38,13 @@ The following frameworks provide Fresh integration.
 
 <!--lint ignore awesome-list-item-->
 
-* [Danet](https://github.com/Savory/Danet) ⭐ 527 | 🐛 3 | 🌐 HTML | 📅 2026-08-17 - A Savory web framework for Deno heavily inspired by Nest
+* [Danet](https://github.com/Savory/Danet) ⭐ 528 | 🐛 3 | 🌐 HTML | 📅 2026-08-17 - A Savory web framework for Deno heavily inspired by Nest
 
 <!--lint enable awesome-list-item-->
 
 <!--lint ignore awesome-list-item-->
 
-* [Remult](https://github.com/remult/remult) ⭐ 3,208 | 🐛 118 | 🌐 TypeScript | 📅 2026-09-08 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
+* [Remult](https://github.com/remult/remult) ⭐ 3,208 | 🐛 118 | 🌐 TypeScript | 📅 2026-09-09 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
 
 <!--lint enable awesome-list-item-->
 
@@ -70,4 +70,4 @@ The following frameworks provide Fresh integration.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
