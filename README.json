@@ -223,7 +223,7 @@
             "id": 108873775,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T07:38:03Z",
+            "last_commit": "2026-09-11T06:04:36Z",
             "open_issues": 118,
             "owner": "remult",
             "repo": "remult",
@@ -412,7 +412,7 @@
             "open_issues": 72,
             "owner": "deco-cx",
             "repo": "deco",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "cms",
               "deno",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:12:39.739Z",
+    "last_updated": "2026-09-11T11:13:34.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
