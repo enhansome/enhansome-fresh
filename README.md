@@ -4,7 +4,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/uki00a/awesome-fresh?style=social)](https://github.com/uki00a/awesome-fresh) ⭐ 51 | 🐛 1 | 🌐 TypeScript | 📅 2025-06-22
 
-A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,786 | 🐛 153 | 🌐 TypeScript | 📅 2026-08-02
+A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,787 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-02
 
 ## Contents
 
@@ -44,7 +44,7 @@ The following frameworks provide Fresh integration.
 
 <!--lint ignore awesome-list-item-->
 
-* [Remult](https://github.com/remult/remult) ⭐ 3,210 | 🐛 118 | 🌐 TypeScript | 📅 2026-09-11 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
+* [Remult](https://github.com/remult/remult) ⭐ 3,211 | 🐛 118 | 🌐 TypeScript | 📅 2026-09-14 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
 
 <!--lint enable awesome-list-item-->
 
@@ -64,10 +64,10 @@ The following frameworks provide Fresh integration.
 
 ## Related lists
 
-* [awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,408 | 🐛 2 | 📅 2026-08-14
+* [awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,409 | 🐛 2 | 📅 2026-09-14
 * [awesome-oak](https://github.com/oakserver/awesome-oak) ⭐ 84 | 🐛 0 | 📅 2025-07-20
 * [awesome-deno-kv](https://github.com/hashrock/awesome-deno-kv) ⭐ 62 | 🐛 0 | 📅 2025-09-07
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
