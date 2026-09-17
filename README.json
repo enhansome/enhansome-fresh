@@ -408,8 +408,8 @@
             "id": 512911060,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T00:50:01Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-16T21:34:17Z",
+            "open_issues": 74,
             "owner": "deco-cx",
             "repo": "deco",
             "stars": 847,
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T11:25:45.340Z",
+    "last_updated": "2026-09-17T11:34:47.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
