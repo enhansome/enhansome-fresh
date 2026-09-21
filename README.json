@@ -387,7 +387,7 @@
             "open_issues": 231,
             "owner": "jsr-io",
             "repo": "jsr",
-            "stars": 2976,
+            "stars": 2975,
             "topics": [
               "javascript",
               "registry",
@@ -408,11 +408,11 @@
             "id": 512911060,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T21:05:01Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-21T11:31:15Z",
+            "open_issues": 72,
             "owner": "deco-cx",
             "repo": "deco",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "cms",
               "deno",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:15:46.474Z",
+    "last_updated": "2026-09-21T12:41:16.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",

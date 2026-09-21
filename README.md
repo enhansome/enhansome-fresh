@@ -4,7 +4,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/uki00a/awesome-fresh?style=social)](https://github.com/uki00a/awesome-fresh) ⭐ 51 | 🐛 1 | 🌐 TypeScript | 📅 2025-06-22
 
-A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,787 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-02
+A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,788 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-02
 
 ## Contents
 
@@ -57,8 +57,8 @@ The following frameworks provide Fresh integration.
 
 ## Apps
 
-* [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,976 | 🐛 231 | 🌐 Rust | 📅 2026-09-14 - The open-source package registry for modern JavaScript and TypeScript.
-* [Deco](https://github.com/deco-cx/deco) ⭐ 847 | 🐛 73 | 🌐 TypeScript | 📅 2026-09-18 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
+* [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,975 | 🐛 231 | 🌐 Rust | 📅 2026-09-14 - The open-source package registry for modern JavaScript and TypeScript.
+* [Deco](https://github.com/deco-cx/deco) ⭐ 848 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-21 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
 * [kview](https://github.com/kitsonk/kview) ⭐ 101 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-11 - A web interface for viewing Deno KV stores.
 * [Netzo](https://netzo.io) - Build business web apps fast, with less resources with an opinionated fresh meta-framework and development platform.
 
@@ -70,4 +70,4 @@ The following frameworks provide Fresh integration.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
