@@ -9,7 +9,7 @@
           "description": "A server side rendered charting library for Fresh based on Chart.js.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "A server-side-rendered charting library for Fresh",
             "homepage": "https://fresh-charts.deno.dev/",
             "id": 550691825,
@@ -227,7 +227,7 @@
             "open_issues": 119,
             "owner": "remult",
             "repo": "remult",
-            "stars": 3211,
+            "stars": 3210,
             "topics": [
               "angular",
               "api",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T11:44:46.086Z",
+    "last_updated": "2026-09-26T11:18:02.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",

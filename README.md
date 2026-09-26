@@ -16,7 +16,7 @@ A curated list of awesome things related to [fresh](https://github.com/denoland/
 
 ## Modules
 
-* [fresh\_charts](https://github.com/denoland/fresh_charts) ⭐ 154 | 🐛 9 | 🌐 TypeScript | 📅 2024-04-17 - A server side rendered charting library for Fresh based on Chart.js.
+* [fresh\_charts](https://github.com/denoland/fresh_charts) ⚠️ Archived - A server side rendered charting library for Fresh based on Chart.js.
 * [fresh-session](https://github.com/xstevenyung/fresh-session) ⭐ 82 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-01 - Dead simple cookie-based session for Deno Fresh.
 
 <!--lint ignore awesome-list-item-->
@@ -44,7 +44,7 @@ The following frameworks provide Fresh integration.
 
 <!--lint ignore awesome-list-item-->
 
-* [Remult](https://github.com/remult/remult) ⭐ 3,211 | 🐛 119 | 🌐 TypeScript | 📅 2026-09-19 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
+* [Remult](https://github.com/remult/remult) ⭐ 3,210 | 🐛 119 | 🌐 TypeScript | 📅 2026-09-19 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
 
 <!--lint enable awesome-list-item-->
 
@@ -70,4 +70,4 @@ The following frameworks provide Fresh integration.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
