@@ -58,7 +58,7 @@ The following frameworks provide Fresh integration.
 ## Apps
 
 * [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,973 | 🐛 233 | 🌐 Rust | 📅 2026-09-24 - The open-source package registry for modern JavaScript and TypeScript.
-* [Deco](https://github.com/deco-cx/deco) ⭐ 850 | 🐛 73 | 🌐 TypeScript | 📅 2026-09-25 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
+* [Deco](https://github.com/deco-cx/deco) ⭐ 849 | 🐛 73 | 🌐 TypeScript | 📅 2026-09-25 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
 * [kview](https://github.com/kitsonk/kview) ⭐ 101 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-11 - A web interface for viewing Deno KV stores.
 * [Netzo](https://netzo.io) - Build business web apps fast, with less resources with an opinionated fresh meta-framework and development platform.
 
@@ -70,4 +70,4 @@ The following frameworks provide Fresh integration.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
