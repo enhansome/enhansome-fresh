@@ -387,7 +387,7 @@
             "open_issues": 233,
             "owner": "jsr-io",
             "repo": "jsr",
-            "stars": 2973,
+            "stars": 2974,
             "topics": [
               "javascript",
               "registry",
@@ -474,11 +474,11 @@
             "id": 163803160,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-14T00:34:08Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-28T10:42:14Z",
+            "open_issues": 2,
             "owner": "denolib",
             "repo": "awesome-deno",
-            "stars": 4410,
+            "stars": 4411,
             "topics": [
               "awesome",
               "awesome-list",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T11:57:09.318Z",
+    "last_updated": "2026-09-28T13:45:44.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
