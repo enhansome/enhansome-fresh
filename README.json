@@ -270,7 +270,7 @@
             "open_issues": 13,
             "owner": "denoland",
             "repo": "saaskit",
-            "stars": 1324,
+            "stars": 1323,
             "topics": [
               "deno",
               "fresh",
@@ -383,8 +383,8 @@
             "id": 764577268,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-24T22:18:07Z",
-            "open_issues": 233,
+            "last_commit": "2026-10-01T06:13:53Z",
+            "open_issues": 234,
             "owner": "jsr-io",
             "repo": "jsr",
             "stars": 2974,
@@ -408,7 +408,7 @@
             "id": 512911060,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T01:12:00Z",
+            "last_commit": "2026-10-01T01:02:57Z",
             "open_issues": 73,
             "owner": "deco-cx",
             "repo": "deco",
@@ -478,7 +478,7 @@
             "open_issues": 2,
             "owner": "denolib",
             "repo": "awesome-deno",
-            "stars": 4411,
+            "stars": 4410,
             "topics": [
               "awesome",
               "awesome-list",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T12:27:57.230Z",
+    "last_updated": "2026-10-01T13:04:42.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
