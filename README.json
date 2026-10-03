@@ -223,7 +223,7 @@
             "id": 108873775,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T15:39:01Z",
+            "last_commit": "2026-10-02T13:29:46Z",
             "open_issues": 119,
             "owner": "remult",
             "repo": "remult",
@@ -383,11 +383,11 @@
             "id": 764577268,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-01T06:13:53Z",
+            "last_commit": "2026-10-03T03:17:48Z",
             "open_issues": 234,
             "owner": "jsr-io",
             "repo": "jsr",
-            "stars": 2974,
+            "stars": 2975,
             "topics": [
               "javascript",
               "registry",
@@ -408,11 +408,11 @@
             "id": 512911060,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T01:02:57Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-02T21:18:19Z",
+            "open_issues": 76,
             "owner": "deco-cx",
             "repo": "deco",
-            "stars": 849,
+            "stars": 850,
             "topics": [
               "cms",
               "deno",
@@ -465,7 +465,7 @@
         {
           "node_type": "item",
           "title": "awesome-deno",
-          "description": null,
+          "description": "denolib/awesome-deno",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -478,7 +478,7 @@
             "open_issues": 2,
             "owner": "denolib",
             "repo": "awesome-deno",
-            "stars": 4410,
+            "stars": 4411,
             "topics": [
               "awesome",
               "awesome-list",
@@ -490,7 +490,7 @@
         {
           "node_type": "item",
           "title": "awesome-oak",
-          "description": null,
+          "description": "oakserver/awesome-oak",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -514,7 +514,7 @@
         {
           "node_type": "item",
           "title": "awesome-deno-kv",
-          "description": null,
+          "description": "hashrock/awesome-deno-kv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:25:33.396Z",
+    "last_updated": "2026-10-03T04:44:46.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
