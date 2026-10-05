@@ -126,7 +126,7 @@
             "open_issues": 0,
             "owner": "roonie007",
             "repo": "fresh-tailwindcss",
-            "stars": 8,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:54.045Z"
@@ -227,7 +227,7 @@
             "open_issues": 117,
             "owner": "remult",
             "repo": "remult",
-            "stars": 3210,
+            "stars": 3209,
             "topics": [
               "angular",
               "api",
@@ -270,7 +270,7 @@
             "open_issues": 13,
             "owner": "denoland",
             "repo": "saaskit",
-            "stars": 1323,
+            "stars": 1321,
             "topics": [
               "deno",
               "fresh",
@@ -408,8 +408,8 @@
             "id": 512911060,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T21:18:19Z",
-            "open_issues": 76,
+            "last_commit": "2026-10-05T13:00:18Z",
+            "open_issues": 74,
             "owner": "deco-cx",
             "repo": "deco",
             "stars": 850,
@@ -447,7 +447,7 @@
             "open_issues": 2,
             "owner": "kitsonk",
             "repo": "kview",
-            "stars": 101,
+            "stars": 100,
             "topics": [
               "deno",
               "kv",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:15:54.028Z",
+    "last_updated": "2026-10-05T14:27:58.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",

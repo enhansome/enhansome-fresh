@@ -4,7 +4,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/uki00a/awesome-fresh?style=social)](https://github.com/uki00a/awesome-fresh)
 
-A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,794 | 🐛 158 | 🌐 TypeScript | 📅 2026-10-03
+A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,792 | 🐛 159 | 🌐 TypeScript | 📅 2026-10-03
 
 ## Contents
 
@@ -23,7 +23,7 @@ A curated list of awesome things related to [fresh](https://github.com/denoland/
 
 * [fresh-seo](https://github.com/xstevenyung/fresh-seo) ⭐ 54 | 🐛 7 | 🌐 TypeScript | 📅 2023-08-15 - The fastest way :zap: to create sitemap and robots.txt in your Deno Fresh project :lemon:
 * [fresh-testing-library](https://github.com/uki00a/fresh-testing-library) ⭐ 23 | 🐛 6 | 🌐 TypeScript | 📅 2026-05-01 - Utilities for testing fresh apps.
-* [fresh-tailwindcss](https://github.com/roonie007/fresh-tailwindcss) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2023-06-30 - Fresh plugin for TailwindCSS
+* [fresh-tailwindcss](https://github.com/roonie007/fresh-tailwindcss) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2023-06-30 - Fresh plugin for TailwindCSS
 
 <!--lint enable awesome-list-item-->
 
@@ -44,7 +44,7 @@ The following frameworks provide Fresh integration.
 
 <!--lint ignore awesome-list-item-->
 
-* [Remult](https://github.com/remult/remult) ⭐ 3,210 | 🐛 117 | 🌐 TypeScript | 📅 2026-10-03 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
+* [Remult](https://github.com/remult/remult) ⭐ 3,209 | 🐛 117 | 🌐 TypeScript | 📅 2026-10-03 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
 
 <!--lint enable awesome-list-item-->
 
@@ -58,8 +58,8 @@ The following frameworks provide Fresh integration.
 ## Apps
 
 * [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,975 | 🐛 235 | 🌐 Rust | 📅 2026-10-03 - The open-source package registry for modern JavaScript and TypeScript.
-* [Deco](https://github.com/deco-cx/deco) ⭐ 850 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-02 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
-* [kview](https://github.com/kitsonk/kview) ⭐ 101 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-11 - A web interface for viewing Deno KV stores.
+* [Deco](https://github.com/deco-cx/deco) ⭐ 850 | 🐛 74 | 🌐 TypeScript | 📅 2026-10-05 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
+* [kview](https://github.com/kitsonk/kview) ⭐ 100 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-11 - A web interface for viewing Deno KV stores.
 * [Netzo](https://netzo.io) - Build business web apps fast, with less resources with an opinionated fresh meta-framework and development platform.
 
 ## Related lists
@@ -70,4 +70,4 @@ The following frameworks provide Fresh integration.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
