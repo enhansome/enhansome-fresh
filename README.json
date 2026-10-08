@@ -223,11 +223,11 @@
             "id": 108873775,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T08:20:04Z",
-            "open_issues": 119,
+            "last_commit": "2026-10-08T06:17:46Z",
+            "open_issues": 116,
             "owner": "remult",
             "repo": "remult",
-            "stars": 3209,
+            "stars": 3210,
             "topics": [
               "angular",
               "api",
@@ -387,7 +387,7 @@
             "open_issues": 235,
             "owner": "jsr-io",
             "repo": "jsr",
-            "stars": 2976,
+            "stars": 2977,
             "topics": [
               "javascript",
               "registry",
@@ -475,10 +475,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-28T10:42:14Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "denolib",
             "repo": "awesome-deno",
-            "stars": 4411,
+            "stars": 4410,
             "topics": [
               "awesome",
               "awesome-list",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T13:14:07.971Z",
+    "last_updated": "2026-10-08T13:20:40.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
