@@ -197,7 +197,7 @@
             "open_issues": 3,
             "owner": "Savory",
             "repo": "Danet",
-            "stars": 530,
+            "stars": 531,
             "topics": [
               "deno",
               "dependency-injection",
@@ -223,7 +223,7 @@
             "id": 108873775,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T11:43:59Z",
+            "last_commit": "2026-10-13T11:20:47Z",
             "open_issues": 114,
             "owner": "remult",
             "repo": "remult",
@@ -387,7 +387,7 @@
             "open_issues": 236,
             "owner": "jsr-io",
             "repo": "jsr",
-            "stars": 2978,
+            "stars": 2977,
             "topics": [
               "javascript",
               "registry",
@@ -474,8 +474,8 @@
             "id": 163803160,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-28T10:42:14Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-13T00:37:05Z",
+            "open_issues": 6,
             "owner": "denolib",
             "repo": "awesome-deno",
             "stars": 4411,
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:14:02.821Z",
+    "last_updated": "2026-10-13T14:04:54.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
