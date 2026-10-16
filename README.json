@@ -384,10 +384,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-15T07:36:11Z",
-            "open_issues": 238,
+            "open_issues": 239,
             "owner": "jsr-io",
             "repo": "jsr",
-            "stars": 2977,
+            "stars": 2978,
             "topics": [
               "javascript",
               "registry",
@@ -408,8 +408,8 @@
             "id": 512911060,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T15:33:32Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-16T00:45:35Z",
+            "open_issues": 75,
             "owner": "deco-cx",
             "repo": "deco",
             "stars": 850,
@@ -475,7 +475,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-13T00:37:05Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "denolib",
             "repo": "awesome-deno",
             "stars": 4411,
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T11:20:34.368Z",
+    "last_updated": "2026-10-16T11:15:30.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
