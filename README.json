@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "denoland",
             "repo": "fresh_charts",
-            "stars": 154,
+            "stars": 153,
             "topics": [
               "charting-library",
               "chartjs",
@@ -223,11 +223,11 @@
             "id": 108873775,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T11:20:47Z",
+            "last_commit": "2026-10-17T06:34:09Z",
             "open_issues": 114,
             "owner": "remult",
             "repo": "remult",
-            "stars": 3213,
+            "stars": 3214,
             "topics": [
               "angular",
               "api",
@@ -387,7 +387,7 @@
             "open_issues": 239,
             "owner": "jsr-io",
             "repo": "jsr",
-            "stars": 2978,
+            "stars": 2981,
             "topics": [
               "javascript",
               "registry",
@@ -408,7 +408,7 @@
             "id": 512911060,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T00:45:35Z",
+            "last_commit": "2026-10-17T00:46:02Z",
             "open_issues": 75,
             "owner": "deco-cx",
             "repo": "deco",
@@ -478,7 +478,7 @@
             "open_issues": 7,
             "owner": "denolib",
             "repo": "awesome-deno",
-            "stars": 4411,
+            "stars": 4412,
             "topics": [
               "awesome",
               "awesome-list",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T11:15:30.408Z",
+    "last_updated": "2026-10-17T10:34:23.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
