@@ -227,7 +227,7 @@
             "open_issues": 114,
             "owner": "remult",
             "repo": "remult",
-            "stars": 3214,
+            "stars": 3213,
             "topics": [
               "angular",
               "api",
@@ -412,7 +412,7 @@
             "open_issues": 75,
             "owner": "deco-cx",
             "repo": "deco",
-            "stars": 850,
+            "stars": 849,
             "topics": [
               "cms",
               "deno",
@@ -478,7 +478,7 @@
             "open_issues": 7,
             "owner": "denolib",
             "repo": "awesome-deno",
-            "stars": 4412,
+            "stars": 4413,
             "topics": [
               "awesome",
               "awesome-list",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T10:34:23.737Z",
+    "last_updated": "2026-10-18T10:57:25.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
