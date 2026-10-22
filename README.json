@@ -227,7 +227,7 @@
             "open_issues": 114,
             "owner": "remult",
             "repo": "remult",
-            "stars": 3214,
+            "stars": 3213,
             "topics": [
               "angular",
               "api",
@@ -387,7 +387,7 @@
             "open_issues": 238,
             "owner": "jsr-io",
             "repo": "jsr",
-            "stars": 2984,
+            "stars": 2985,
             "topics": [
               "javascript",
               "registry",
@@ -408,7 +408,7 @@
             "id": 512911060,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T00:46:02Z",
+            "last_commit": "2026-10-22T11:07:46Z",
             "open_issues": 75,
             "owner": "deco-cx",
             "repo": "deco",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T11:40:42.329Z",
+    "last_updated": "2026-10-22T11:43:16.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",

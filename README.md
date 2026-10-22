@@ -4,7 +4,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/uki00a/awesome-fresh?style=social)](https://github.com/uki00a/awesome-fresh)
 
-A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,794 | 🐛 159 | 🌐 TypeScript | 📅 2026-10-17
+A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,796 | 🐛 159 | 🌐 TypeScript | 📅 2026-10-17
 
 ## Contents
 
@@ -44,7 +44,7 @@ The following frameworks provide Fresh integration.
 
 <!--lint ignore awesome-list-item-->
 
-* [Remult](https://github.com/remult/remult) ⭐ 3,214 | 🐛 114 | 🌐 TypeScript | 📅 2026-10-17 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
+* [Remult](https://github.com/remult/remult) ⭐ 3,213 | 🐛 114 | 🌐 TypeScript | 📅 2026-10-17 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
 
 <!--lint enable awesome-list-item-->
 
@@ -57,8 +57,8 @@ The following frameworks provide Fresh integration.
 
 ## Apps
 
-* [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,984 | 🐛 238 | 🌐 Rust | 📅 2026-10-20 - The open-source package registry for modern JavaScript and TypeScript.
-* [Deco](https://github.com/deco-cx/deco) ⭐ 849 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-17 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
+* [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,985 | 🐛 238 | 🌐 Rust | 📅 2026-10-20 - The open-source package registry for modern JavaScript and TypeScript.
+* [Deco](https://github.com/deco-cx/deco) ⭐ 849 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-22 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
 * [kview](https://github.com/kitsonk/kview) ⭐ 100 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-11 - A web interface for viewing Deno KV stores.
 * [Netzo](https://netzo.io) - Build business web apps fast, with less resources with an opinionated fresh meta-framework and development platform.
 
@@ -70,4 +70,4 @@ The following frameworks provide Fresh integration.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
