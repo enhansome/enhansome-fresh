@@ -4,7 +4,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/uki00a/awesome-fresh?style=social)](https://github.com/uki00a/awesome-fresh)
 
-A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,793 | 🐛 160 | 🌐 TypeScript | 📅 2026-10-17
+A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,792 | 🐛 160 | 🌐 TypeScript | 📅 2026-10-17
 
 ## Contents
 
@@ -70,4 +70,4 @@ The following frameworks provide Fresh integration.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
