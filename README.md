@@ -44,7 +44,7 @@ The following frameworks provide Fresh integration.
 
 <!--lint ignore awesome-list-item-->
 
-* [Remult](https://github.com/remult/remult) ⭐ 3,214 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-06 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
+* [Remult](https://github.com/remult/remult) ⭐ 3,214 | 🐛 34 | 🌐 TypeScript | 📅 2026-11-06 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
 
 <!--lint enable awesome-list-item-->
 
@@ -64,10 +64,10 @@ The following frameworks provide Fresh integration.
 
 ## Related lists
 
-* [awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,416 | 🐛 2 | 📅 2026-11-05
+* [awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,416 | 🐛 3 | 📅 2026-11-05
 * [awesome-oak](https://github.com/oakserver/awesome-oak) ⭐ 84 | 🐛 0 | 📅 2025-07-20
 * [awesome-deno-kv](https://github.com/hashrock/awesome-deno-kv) ⭐ 62 | 🐛 0 | 📅 2025-09-07
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
