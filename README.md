@@ -4,7 +4,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/uki00a/awesome-fresh?style=social)](https://github.com/uki00a/awesome-fresh)
 
-A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,788 | 🐛 162 | 🌐 TypeScript | 📅 2026-10-17
+A curated list of awesome things related to [fresh](https://github.com/denoland/fresh) ⭐ 13,785 | 🐛 162 | 🌐 TypeScript | 📅 2026-10-17
 
 ## Contents
 
@@ -17,7 +17,7 @@ A curated list of awesome things related to [fresh](https://github.com/denoland/
 ## Modules
 
 * [fresh\_charts](https://github.com/denoland/fresh_charts) ⚠️ Archived - A server side rendered charting library for Fresh based on Chart.js.
-* [fresh-session](https://github.com/xstevenyung/fresh-session) ⭐ 82 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-01 - Dead simple cookie-based session for Deno Fresh.
+* [fresh-session](https://github.com/xstevenyung/fresh-session) ⭐ 81 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-01 - Dead simple cookie-based session for Deno Fresh.
 
 <!--lint ignore awesome-list-item-->
 
@@ -44,7 +44,7 @@ The following frameworks provide Fresh integration.
 
 <!--lint ignore awesome-list-item-->
 
-* [Remult](https://github.com/remult/remult) ⭐ 3,216 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-12 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
+* [Remult](https://github.com/remult/remult) ⭐ 3,216 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-12 - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
 
 <!--lint enable awesome-list-item-->
 
@@ -64,10 +64,10 @@ The following frameworks provide Fresh integration.
 
 ## Related lists
 
-* [awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,416 | 🐛 7 | 📅 2026-11-10
+* [awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,416 | 🐛 8 | 📅 2026-11-10
 * [awesome-oak](https://github.com/oakserver/awesome-oak) ⭐ 84 | 🐛 0 | 📅 2025-07-20
 * [awesome-deno-kv](https://github.com/hashrock/awesome-deno-kv) ⭐ 62 | 🐛 0 | 📅 2025-09-07
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
