@@ -46,7 +46,7 @@
             "open_issues": 1,
             "owner": "Octo8080X",
             "repo": "fresh-session",
-            "stars": 81,
+            "stars": 80,
             "topics": [
               "authentication",
               "cookie",
@@ -223,11 +223,11 @@
             "id": 108873775,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T08:16:09Z",
-            "open_issues": 42,
+            "last_commit": "2026-11-18T19:08:48Z",
+            "open_issues": 34,
             "owner": "remult",
             "repo": "remult",
-            "stars": 3219,
+            "stars": 3220,
             "topics": [
               "angular",
               "api",
@@ -408,11 +408,11 @@
             "id": 512911060,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T00:31:54Z",
-            "open_issues": 79,
+            "last_commit": "2026-11-18T18:47:01Z",
+            "open_issues": 80,
             "owner": "deco-cx",
             "repo": "deco",
-            "stars": 851,
+            "stars": 850,
             "topics": [
               "cms",
               "deno",
@@ -475,7 +475,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-17T09:47:57Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "denolib",
             "repo": "awesome-deno",
             "stars": 4418,
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T15:32:13.831Z",
+    "last_updated": "2026-11-19T15:39:17.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
