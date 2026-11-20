@@ -197,7 +197,7 @@
             "open_issues": 3,
             "owner": "Savory",
             "repo": "Danet",
-            "stars": 532,
+            "stars": 531,
             "topics": [
               "deno",
               "dependency-injection",
@@ -227,7 +227,7 @@
             "open_issues": 34,
             "owner": "remult",
             "repo": "remult",
-            "stars": 3220,
+            "stars": 3219,
             "topics": [
               "angular",
               "api",
@@ -270,7 +270,7 @@
             "open_issues": 13,
             "owner": "denoland",
             "repo": "saaskit",
-            "stars": 1322,
+            "stars": 1321,
             "topics": [
               "deno",
               "fresh",
@@ -383,11 +383,11 @@
             "id": 764577268,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-10T01:27:34Z",
-            "open_issues": 248,
+            "last_commit": "2026-11-20T12:54:09Z",
+            "open_issues": 246,
             "owner": "jsr-io",
             "repo": "jsr",
-            "stars": 2991,
+            "stars": 2989,
             "topics": [
               "javascript",
               "registry",
@@ -408,11 +408,11 @@
             "id": 512911060,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T18:47:01Z",
-            "open_issues": 80,
+            "last_commit": "2026-11-20T00:28:58Z",
+            "open_issues": 79,
             "owner": "deco-cx",
             "repo": "deco",
-            "stars": 850,
+            "stars": 849,
             "topics": [
               "cms",
               "deno",
@@ -474,7 +474,7 @@
             "id": 163803160,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-11-17T09:47:57Z",
+            "last_commit": "2026-11-19T23:54:55Z",
             "open_issues": 4,
             "owner": "denolib",
             "repo": "awesome-deno",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:39:17.760Z",
+    "last_updated": "2026-11-20T15:20:41.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to fresh",
