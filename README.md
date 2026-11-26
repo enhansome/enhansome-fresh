@@ -57,17 +57,17 @@ The following frameworks provide Fresh integration.
 
 ## Apps
 
-* [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,987 | 🐛 251 | 🌐 Rust | 📅 2026-11-25 - The open-source package registry for modern JavaScript and TypeScript.
+* [jsr.io](https://github.com/jsr-io/jsr) ⭐ 2,987 | 🐛 251 | 🌐 Rust | 📅 2026-11-26 - The open-source package registry for modern JavaScript and TypeScript.
 * [Deco](https://github.com/deco-cx/deco) ⭐ 850 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-25 - Open-Source web editor based on Preact, Tailwind and TypeScript. The other side of code.
 * [kview](https://github.com/kitsonk/kview) ⭐ 99 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-02 - A web interface for viewing Deno KV stores.
 * [Netzo](https://netzo.io) - Build business web apps fast, with less resources with an opinionated fresh meta-framework and development platform.
 
 ## Related lists
 
-* [awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,417 | 🐛 7 | 📅 2026-11-19
+* [awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,417 | 🐛 8 | 📅 2026-11-19
 * [awesome-oak](https://github.com/oakserver/awesome-oak) ⭐ 84 | 🐛 0 | 📅 2025-07-20
 * [awesome-deno-kv](https://github.com/hashrock/awesome-deno-kv) ⭐ 62 | 🐛 0 | 📅 2025-09-07
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
